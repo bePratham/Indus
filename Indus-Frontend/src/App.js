@@ -90,7 +90,7 @@ const router = createBrowserRouter([
 function App() {
   const dispatch = useDispatch();
   const user = useSelector(selectLoggedInUser);
-
+  //Cart Item Load
   useEffect(() => {
     if (user) {
       dispatch(fetchItemsByUserIdAsync(user.id));

@@ -16,7 +16,7 @@ export const createUserAsync = createAsyncThunk(
     return response.data;
   }
 );
-
+  
 export const updateUserAsync = createAsyncThunk(
   'user/updateUser',
   async (update) => {
