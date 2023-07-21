@@ -22,9 +22,8 @@ const { User } = require('./model/User');
 const { isAuth, sanitizeUser, cookieExtractor } = require('./services/common');
 
 const SECRET_KEY = 'SECRET_KEY';
+
 // JWT options
-
-
 const opts = {};
 opts.jwtFromRequest = cookieExtractor;
 opts.secretOrKey = SECRET_KEY; // TODO: should not be in code;
