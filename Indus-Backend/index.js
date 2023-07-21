@@ -22,8 +22,9 @@ const { User } = require('./model/User');
 const { isAuth, sanitizeUser, cookieExtractor } = require('./services/common');
 
 const SECRET_KEY = 'SECRET_KEY';
-
 // JWT options
+
+
 const opts = {};
 opts.jwtFromRequest = cookieExtractor;
 opts.secretOrKey = SECRET_KEY; // TODO: should not be in code;
@@ -79,7 +80,7 @@ passport.use(
             return done(null, false, { message: 'invalid credentials' });
           }
           const token = jwt.sign(sanitizeUser(user), SECRET_KEY);
-          done(null, {token}); // this lines sends to serializer
+          done(null, {id:user.id, role:user.role}); // this lines sends to serializer
         }
       );
     } catch (err) {
