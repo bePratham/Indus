@@ -29,7 +29,7 @@ exports.fetchAllProducts = async (req, res) => {
     totalProductsQuery = totalProductsQuery.find({
       category: req.query.category,
     });
-  }
+  } 
   if (req.query.brand) {
     query = query.find({ brand: req.query.brand });
     totalProductsQuery = totalProductsQuery.find({ brand: req.query.brand });
