@@ -23,7 +23,7 @@ const { User } = require('./model/User');
 const { isAuth, sanitizeUser, cookieExtractor } = require('./services/common');
 const path = require('path');
 
-console.log(process.env)
+// console.log(process.env)
 
 // Webhook
 
