@@ -83,6 +83,9 @@
         "src": "/(.+)",
         "dest": "build/$1"
       }
+    ],
+    "rewrites":[
+     { "soucre":"/(.*)","destination":"index.js"}
     ]
   }
 
