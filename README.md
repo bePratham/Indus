@@ -28,14 +28,20 @@ Vercel Server deployment <br>
 Email using Nodemailer - using GMail SMTP system <br>
 Payments using Stripe - PaymentIntent based custom flow <br>
 
+https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/9cc09e25-6275-48b0-a5a7-b0b73149cfe6
 
-https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/46b6c920-7c34-433c-a2b7-3c7f8bcbcdaf
+https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/3483849e-e730-45e3-b746-975bbba62f72
 
-https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/292659c0-e1b8-48e1-adf9-9c2a3567e069
+https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/4d53e67d-073b-4df0-a8ca-00d6cbcc1dfa
 
-https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/2c8f7ea3-969d-491a-814f-4a5171297451
+https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/b13c762d-7beb-4198-bc18-2d950d7ff94c
 
-https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/5081f694-428b-4296-bef6-71e7ff2f50de
+https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/ad2daded-4c1d-4b36-88e5-4db0f90248cf
+
+
+
+
+
 
 
 
