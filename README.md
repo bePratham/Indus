@@ -4,29 +4,29 @@ INDUS MERN E-Commerce with Redux Toolkit, Stripe Payment, Cloud Deployment, Emai
 
 🔥 Features :
 
-Basic E-commerce Features- Product lists, Product Details, Cart, Checkout
-Secure Card Payments / Cash payments
-Admin Panel - Add/Edit Orders. Add/Edit Products
-Sorting, Filtering, and Pagination queries using Mongoose
-Authentication with Passport JS strategies
-Order Emails, Reset Password Emails
-User Profile and user orders
+Basic E-commerce Features- Product lists, Product Details, Cart, Checkout <br>
+Secure Card Payments / Cash payments <br>
+Admin Panel - Add/Edit Orders. Add/Edit Products<br>
+Sorting, Filtering, and Pagination queries using Mongoose <br>
+Authentication with Passport JS strategies <br>
+Order Emails, Reset Password Emails <br>
+User Profile and user orders <br>
 
-🔥 Technical Details :
+🔥 Technical Details : <br>
 
-React 18 with Tailwind CSS
-Redux Toolkit with Async Thunk
-React Router v6
-JSON-server for front-end testing
-MongoDB for Database
-Mongoose v7 as ODM
-REST API using Express
-Authentication using Passport JS
-API Authentication using Passport JWT
-MongoDB Atlas cloud database
-Vercel Server deployment
-Email using Nodemailer - using GMail SMTP system
-Payments using Stripe - PaymentIntent based custom flow
+React 18 with Tailwind CSS <br>
+Redux Toolkit with Async Thunk <br>
+React Router v6 <br>
+JSON-server for front-end testing <br>
+MongoDB for Database <br>
+Mongoose v7 as ODM <br>
+REST API using Express <br>
+Authentication using Passport JS <br>
+API Authentication using Passport JWT <br>
+MongoDB Atlas cloud database <br>
+Vercel Server deployment <br>
+Email using Nodemailer - using GMail SMTP system <br>
+Payments using Stripe - PaymentIntent based custom flow <br>
 
 
 https://github.com/varunbagga19/Calculator-Layout-iOS13/assets/70323070/46b6c920-7c34-433c-a2b7-3c7f8bcbcdaf
